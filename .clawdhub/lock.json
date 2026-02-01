@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "skills": {
+    "ask-questions-if-underspecified": {
+      "version": "1.0.0",
+      "installedAt": 1769846220318
+    },
+    "gitload": {
+      "version": "1.0.0",
+      "installedAt": 1769855137495
+    },
+    "qmd": {
+      "version": "1.0.0",
+      "installedAt": 1769855162740
+    },
+    "thinking-partner": {
+      "version": "1.0.0",
+      "installedAt": 1769861443252
+    },
+    "first-principles-decomposer": {
+      "version": "1.0.0",
+      "installedAt": 1769861471972
+    },
+    "reasoning-personas": {
+      "version": "1.0.0",
+      "installedAt": 1769861478229
+    },
+    "weekly-synthesis": {
+      "version": "1.0.0",
+      "installedAt": 1769861490412
+    }
+  }
+}
